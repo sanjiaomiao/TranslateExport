@@ -21,3 +21,6 @@ python CsvToIos.py -f translation_files
 ``` 
 python CsvToAndroid.py -f translation_files
 ```
+
+### Thanks
+[Localizable.strings2Excel](https://github.com/CatchZeng/Localizable.strings2Excel)
