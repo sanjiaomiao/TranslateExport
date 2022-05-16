@@ -1,0 +1,9 @@
+display_name,en,zh-rCN
+app_name,Hello World,你好世界
+app_title,Hello Title,你好标题
+flash_to_on,Flashlight on,轻触点亮
+flash_to_off,Flashlight off,轻触关闭
+camera_no_permission,Do not have permission,权限未打开
+no_camera_permission_tip,Scan QR code requires permission,扫描二维码需要使用相机权限
+cancel,Cancel,取消
+goto_setting,Setting,去设置
